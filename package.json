@@ -1,0 +1,30 @@
+{
+  "name": "wirone",
+  "version": "1.0.0",
+  "description": "Wirone is a micro-framework for creating Yandex Smarthome Adapter API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo No test specified"
+  },
+  "keywords": [
+    "wirone",
+    "yandex",
+    "yandex smarthome",
+    "smarthome",
+    "alice",
+    "yandex alice",
+    "яндекс",
+    "яндекс умный дом",
+    "умный дом",
+    "алиса",
+    "алиса умный дом"
+  ],
+  "author": "Yuukari",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
