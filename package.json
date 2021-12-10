@@ -1,6 +1,6 @@
 {
   "name": "wirone",
-  "version": "1.0.0",
+  "version": "1.0.0-1",
   "description": "Wirone is a micro-framework for creating Yandex Smarthome Adapter API",
   "main": "index.js",
   "directories": {
